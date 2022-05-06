@@ -1,0 +1,110 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20220401_204204.jpg</filename>
+	<path>C:\tensorflow2\models\research\object_detection\images\images\20220401_204204.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>756</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>martabak manis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>399</ymin>
+			<xmax>291</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>martabak manis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>421</ymin>
+			<xmax>403</xmax>
+			<ymax>649</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>martabak manis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>455</ymin>
+			<xmax>544</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>martabak manis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>483</ymin>
+			<xmax>671</xmax>
+			<ymax>664</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>martabak manis</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>655</xmin>
+			<ymin>533</ymin>
+			<xmax>756</xmax>
+			<ymax>697</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>martabak manis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>579</ymin>
+			<xmax>533</xmax>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>martabak manis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>614</ymin>
+			<xmax>675</xmax>
+			<ymax>868</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>martabak manis</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>662</xmin>
+			<ymin>673</ymin>
+			<xmax>756</xmax>
+			<ymax>864</ymax>
+		</bndbox>
+	</object>
+</annotation>

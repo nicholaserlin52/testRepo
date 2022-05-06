@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20210813_195808.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\20210813_195808.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>477</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>martabak telor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>350</ymin>
+			<xmax>226</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>martabak telor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>367</ymin>
+			<xmax>441</xmax>
+			<ymax>607</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>martabak telor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>559</ymin>
+			<xmax>353</xmax>
+			<ymax>761</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20220401_203955.jpg</filename>
+	<path>C:\tensorflow2\models\research\object_detection\images\images\20220401_203955.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>756</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>martabak telor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>370</ymin>
+			<xmax>714</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>martabak telor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>421</ymin>
+			<xmax>640</xmax>
+			<ymax>670</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>martabak telor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>516</ymin>
+			<xmax>490</xmax>
+			<ymax>796</ymax>
+		</bndbox>
+	</object>
+</annotation>

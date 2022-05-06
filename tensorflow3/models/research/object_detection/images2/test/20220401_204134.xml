@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20220401_204134.jpg</filename>
+	<path>C:\tensorflow2\models\research\object_detection\images\images\20220401_204134.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>756</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>martabak manis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>515</ymin>
+			<xmax>349</xmax>
+			<ymax>816</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>martabak manis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>444</ymin>
+			<xmax>577</xmax>
+			<ymax>815</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20220313_113019_BURST062.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\IMG_20220313_113019_BURST062.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>684</width>
+		<height>912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rendang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>357</ymin>
+			<xmax>463</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>

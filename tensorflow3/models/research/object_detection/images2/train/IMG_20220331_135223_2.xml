@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_20220331_135223_2.jpg</filename>
+	<path>C:\tensorflow2\models\research\object_detection\images\images\IMG_20220331_135223_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>684</width>
+		<height>912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ayam goreng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>167</ymin>
+			<xmax>590</xmax>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nasi putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>321</ymin>
+			<xmax>374</xmax>
+			<ymax>705</ymax>
+		</bndbox>
+	</object>
+</annotation>

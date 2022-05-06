@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_20220313_112846_BURST043.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\IMG_20220313_112846_BURST043.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>684</width>
+		<height>912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ayam goreng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>344</ymin>
+			<xmax>480</xmax>
+			<ymax>850</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kecap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>523</ymin>
+			<xmax>263</xmax>
+			<ymax>796</ymax>
+		</bndbox>
+	</object>
+</annotation>

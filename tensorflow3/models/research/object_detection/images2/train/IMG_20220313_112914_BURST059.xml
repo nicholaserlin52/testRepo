@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20220313_112914_BURST059.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\IMG_20220313_112914_BURST059.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>684</width>
+		<height>912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ayam pop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>219</ymin>
+			<xmax>653</xmax>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>extra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>359</ymin>
+			<xmax>517</xmax>
+			<ymax>778</ymax>
+		</bndbox>
+	</object>
+</annotation>

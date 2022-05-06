@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMG_20220331_134931_1.jpg</filename>
+	<path>C:\tensorflow2\models\research\object_detection\images\images\IMG_20220331_134931_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>684</width>
+		<height>912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ayam bakar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>322</ymin>
+			<xmax>286</xmax>
+			<ymax>807</ymax>
+		</bndbox>
+	</object>
+</annotation>

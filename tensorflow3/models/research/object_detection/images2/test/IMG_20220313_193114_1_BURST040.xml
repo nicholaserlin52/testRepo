@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_20220313_193114_1_BURST040.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\IMG_20220313_193114_1_BURST040.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>684</width>
+		<height>912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nasi putih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>305</ymin>
+			<xmax>331</xmax>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bebek goreng</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>60</ymin>
+			<xmax>604</xmax>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+</annotation>
